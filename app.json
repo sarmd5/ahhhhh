@@ -1,5 +1,5 @@
 {
-    "name": "Tepthon",
+    "بايتثون": "Tepthon",
     "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
     "logo" : "https://telegra.ph/file/09a6b0d947cfb8423a2d1.jpg",
     "stack": "container",
@@ -13,12 +13,12 @@
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
-            "value": "9514755",
+            "value": "13699058",
             "required": true
         },
         "APP_HASH": {
             "description": "ايبي هاش",
-            "value": "40e7041d06ea7b6ee1cf39b3188b3452",
+            "value": "24f34c867687dfbf9ddf2520aa122335",
             "required": true
         },
         "TERMUX": {
